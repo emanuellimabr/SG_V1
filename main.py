@@ -20,7 +20,9 @@ bt_Down.dir(mraa.DIR_IN)
 #menu_opt = [""]
 
 def show_menu():
-    print("  Sensor Menu  \n > Add Item \n View Item")
+    print("   Sensor Menu  \n "
+          "> Add Item \n "
+          "  View Item")
 
 
 def main():
