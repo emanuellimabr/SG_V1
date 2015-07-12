@@ -24,8 +24,9 @@ def show_menu():
 
 
 def main():
-    while True:
-        show_menu()
+    show_menu()
+  #  while True:
+
 
 
 if __name__ == '__main__':
